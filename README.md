@@ -2,7 +2,7 @@
 
 ## Install
 ```cmd
-> npm install adii-api
+> npm install @adiixyz/adii-api
 ```
 
 ### How to use
