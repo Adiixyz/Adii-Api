@@ -1,3 +1,6 @@
 # ADII-API
 
-### Please wait. We are publishing to npmjs.com
+## Install
+```cmd
+> npm install adii-api
+```
