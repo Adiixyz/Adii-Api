@@ -1,5 +1,5 @@
 {
-  "name": "@adiixyz/adii-api",
+  "name": "adii-api",
   "version": "0.0.1",
   "description": "Simple API for Whatsapp Bot features",
   "main": "index.js",
